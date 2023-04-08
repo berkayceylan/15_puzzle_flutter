@@ -7,7 +7,7 @@ This is a simple implementation of the classic 15 Puzzle game using Flutter.
 The 15 Puzzle game consists of a frame of 4x4 numbered square tiles in random order with one tile missing. The objective of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
 
 ## Play it
-[Play in the web browser](https://berkayceylan.github.io/15_puzzle#/)
+[Play in the web browser](https://berkayceylan.github.io/15_puzzle#/) <br>
 [Play in the android](https://play.google.com/store/apps/details?id=com.berkayceylan.fifteen_puzzle)
 
 ## Can Build For
@@ -23,13 +23,12 @@ IOS, Android, MacOS, Linux, Windows, Web
 
 ## Screenshots
 
-![15 Puzzle](ss/video.mkv)
-![15 Puzzle](ss/phone_ss_1.jpg)
-![15 Puzzle](ss/phone_ss_2.jpg)
-![15 Puzzle](ss/phone_ss_3.jpg)
-![15 Puzzle](ss/phone_ss_4.jpg)
-![15 Puzzle](ss/web_ss_1.png)
-![15 Puzzle](ss/web_ss_2.png)
+<img width="200" alt="15 Puzzle" src="ss/phone_ss_1.jpg"></img>
+<img width="200" alt="15 Puzzle" src="ss/phone_ss_2.jpg"></img>
+<img width="200" alt="15 Puzzle" src="ss/phone_ss_3.jpg"></img>
+<img width="200" alt="15 Puzzle" src="ss/phone_ss_4.jpg"></img>
+
+
 
 
 ## Features
