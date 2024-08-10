@@ -16,7 +16,7 @@ IOS, Android, MacOS, Linux, Windows, Web
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/berkayceylan/15_puzzle_game.git`
+1. Clone the repository: `git clone https://github.com/berkayceylan/15_puzzle_flutter.git`
 2. Navigate to the project directory: `cd 15_puzzle_game`
 3. Install the dependencies: `flutter pub get`
 4. Run the app: `flutter run`
